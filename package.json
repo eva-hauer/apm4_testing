@@ -1,0 +1,17 @@
+{
+  "name": "apm4_testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jasmine-browser-runner runSpecs"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "cypress": "^15.13.0",
+    "jasmine-browser-runner": "^4.0.0",
+    "jasmine-core": "^6.1.0"
+  }
+}
